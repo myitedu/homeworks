@@ -1,2 +1,1 @@
-<?php
-echo "Welcome to MYITEDU, LLC students homeworks Portal";
+Jon Toshmatov: Hello, This is line 1 6:05 PM
